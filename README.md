@@ -1,12 +1,9 @@
 # Backtester Project: Understanding Stock Strategies with Python
 
-## 📖 Table of Contents
+## Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Key Concepts Explained](#-key-concepts-explained)
 3. [How to Use the Backtester](#-how-to-use-the-backtester)
-4. [Interpreting the Results](#-interpreting-the-results)
-5. [Troubleshooting](#-troubleshooting)
-6. [Glossary](#-glossary)
 
 ---
 
@@ -67,7 +64,7 @@ The simplest strategy: Buy stock and hold it regardless of market fluctuations.
 
 ---
 
-## 🛠 How to Use the Backtester
+##  How to Use the Backtester
 
 ### Step 1: Install Requirements
 ```bash
