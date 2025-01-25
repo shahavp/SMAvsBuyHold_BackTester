@@ -70,5 +70,8 @@ The simplest strategy: Buy stock and hold it regardless of market fluctuations.
 ```bash
 pip install pandas yfinance matplotlib numpy 
 ```
-Gathers real life historical data from Yahoo! Finance.
+-- Gathers real life historical data from Yahoo! Finance.
+
+### Step 2: Execute
+Run backtesting .py file. Input parameters. #NO ERROR HANDLING THEREFORE ENSURE CORRECT VALUES ARE ENTERED.  
 
